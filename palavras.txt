@@ -1,2 +1,6 @@
 banana
 melancia
+maca 
+uva
+abacaxi
+cereja
